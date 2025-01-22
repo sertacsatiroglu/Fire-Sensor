@@ -107,22 +107,7 @@ The system features:
 
 ---
 
-## **Deliverables**
 
-### **1. Code**
-- Fully executable code with well-commented sections.
-- Includes ARM assembly for at least one submodule.
-
-### **2. Final Report**
-- Contains detailed descriptions of implementation, hardware photos, and relevant code snippets.
-
-### **3. Final Video**
-- Demonstrates the system's functionality (maximum 5 minutes).
-
-### **4. Lab Demo**
-- Real-time demonstration of the system during the lab session.
-
----
 
 ## **Contributing**
 Contributions to improve or extend this project are welcome. Follow these steps:
