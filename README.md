@@ -77,7 +77,7 @@ The system features:
 ---
 
 ## **Programming Requirements**
-- **ARM Assembly**: At least one submodule implemented in assembly.
+- **ARM Assembly**: Only keyboard functions implemented in assembly language.
 - **C Programming**: Remaining modules written in C.
 - **Interrupt Handling**:
   - Analog comparator interrupts for deep sleep wakeup.
